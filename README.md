@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Malpotra
-- 👀 I’m a Digital/ Data Analyst
-- 🌱 I’m currently working SQl,Python,Linux,JS 
+- 👀 I’m a Marketing Analytics Engineer / Data Engineer
+- 🌱 I’m work with SQl,Python,Linux,JS 
 
 <!---
 malpotraa/malpotraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
